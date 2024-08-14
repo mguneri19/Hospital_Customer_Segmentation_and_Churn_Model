@@ -7,7 +7,7 @@ This repository contains the implementation of a project focused on segmenting h
 - **data/**: Contains data files (not included in this repository).
 - **notebooks/**: Jupyter Notebooks for exploratory data analysis and modeling.
 - **scripts/**: Python scripts for data processing and model training.
-- **models/**: Trained machine learning models.
+- **models/**: Trained machine learning models (not included in this repository).
 - **requirements.txt**: List of dependencies for the project.
 - **README.md**: This file, which provides an overview of the project.
 
